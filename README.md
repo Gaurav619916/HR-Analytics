@@ -7,7 +7,7 @@ HR Analytics Dashboard in Power BI
 - Attrition Rate: 16.1%
 - Attrition by Education: Higher attrition in technical and marketing roles.
 - Attrition by Age Group: Younger employees (26-35) have the highest attrition rate.
-- 
+
 # Departmental Insights
  Attrition by Department:
 - HR: 12 employees
