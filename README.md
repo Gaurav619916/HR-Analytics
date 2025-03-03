@@ -3,6 +3,10 @@ HR Analytics Dashboard in Power BI
 # Objective of the Project:
 - Identify attrition trends and key factors affecting employee retention.
 - Provide insights to improve workforce planning.
+
+# Dashboard
+![HR_Analytics Dashboard](https://github.com/user-attachments/assets/36576acf-29d4-4db1-b412-a89dec1439c6)
+
 # Key Insights from Dashboard - Attrition Analysis
 - Attrition Rate: 16.1%
 - Attrition by Education: Higher attrition in technical and marketing roles.
